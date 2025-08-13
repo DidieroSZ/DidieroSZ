@@ -2,9 +2,16 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DidierSZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DidierSZ&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="right">
+  <a href="www.linkedin.com/in/didier-saucedo-ba8603337" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=fff&logoColor=0077B5&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/con.d.d.didier/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:didiersaucedoz@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -55,22 +62,16 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/didier-saucedo-ba8603337" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=fff&logoColor=0077B5&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/con.d.d.didier/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:didiersaucedoz@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DidieroSZ/DidieroSZ/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DidierSZ/DidierSZ/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DidieroSZ&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="200" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DidieroSZ&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="200" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=DidieroSZ&locale=es&mode=weekly&theme=dark&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
+</div>
 
 ###
